@@ -1,5 +1,6 @@
 {
     "name": "3D Raycasting New",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
